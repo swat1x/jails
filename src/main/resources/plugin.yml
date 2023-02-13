@@ -1,0 +1,5 @@
+name: Pmjail
+version: '${version}'
+main: ru.swat1x.pmjail.JailPlugin
+api-version: 1.16
+authors: [ swat1x ]
